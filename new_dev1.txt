@@ -1,0 +1,4 @@
+new commit 2 feature which is not present in commit 1
+
+End of new feature commit
+
